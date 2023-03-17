@@ -1,0 +1,12 @@
+Steps:
+    [+] Understand what a breakpoint is.
+    [ ] Understand dwarf and ELF information.
+    [ ] Understand what a Symbol Tables is.
+    [ ] Implement more information about the program compiled by b(fuck)^2 (If it's necessary).
+
+References:
+    * CppCon about C++ debugger: https://www.youtube.com/watch?v=0DDrseUomfU&t
+
+About C++ (Maybe needed to the implemenation):
+    * Sync functions.
+    * Volatile variables.

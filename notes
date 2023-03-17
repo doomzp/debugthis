@@ -1,0 +1,4 @@
+fork does not make a thread, instead makes another process
+which is gonna execute their own instructions, so the main process
+and the child process cannot be executed at the same time since
+are different processes.
